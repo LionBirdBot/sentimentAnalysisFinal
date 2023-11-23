@@ -83,7 +83,7 @@ with st.expander("Textblob Analysis"):
             st.write("subjectivity: ",subjective)
             st.write("Score: ",subjectivity)
 
-            cleane=cleantext()
+    
         
 
 with st.expander("Vader analysis"):
